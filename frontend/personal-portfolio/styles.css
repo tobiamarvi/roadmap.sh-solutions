@@ -1,6 +1,19 @@
-li {
-    display: inline;
+.header {
+    text-align: center;
+    border: 24px;
 }
+
+.header a {
+    margin: 0;
+    padding: 0;
+}
+
+.navigation {
+    margin: 0;
+    padding: 0;
+    display: relative;
+}
+
 
 .name {
     display: relative;
