@@ -1,0 +1,13 @@
+body {
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 100vh;
+}
+
+header {
+    text-align: center;
+}
+
+header span {
+    color: gray
+}
