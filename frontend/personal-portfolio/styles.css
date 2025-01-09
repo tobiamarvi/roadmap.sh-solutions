@@ -1,20 +1,87 @@
-.header {
-    text-align: center;
-    border: 24px;
+body {
+    border: 2px solid;
 }
 
-.header a {
-    margin: 0;
-    padding: 0;
+.name {
+    float: left;
+    padding: 12px;
 }
 
 .navigation {
+    right: 100px;
+    padding: 12px;
+    float: right;
+}
+
+.navigation ul {
+    list-style-type: none;
     margin: 0;
     padding: 0;
-    display: relative;
+}
+
+.navigation li {
+    display: inline;
+}
+
+.header {
+    text-align: center;
+    border: 24px;
+    padding-top: 20px;
+    padding-bottom: 48px;
+}
+
+.header h1 {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    border-bottom: 2px solid;
+}
+
+.container > div {
+    flex: 1;
+}
+
+.projects {
+    width: 20%;
+    border-top: 2px solid;
+    border-right: 2px solid;
+    float: left;
+    box-sizing: border-box;
+    padding: 12px;
+}
+
+.experience {
+    width: 40%;
+    border-top: 2px solid;
+    border-right: 2px solid;
+    float: left;
+    box-sizing: border-box;
+    padding: 12px;
+}
+
+.education {
+    width: 40%;
+    border-top: 2px solid;
+    box-sizing: border-box;
+    padding: 12px;
+}
+
+.teacher-reviews {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 12px;
 }
 
 
-.name {
-    display: relative;
+
+
+
+footer {
+    padding: 48px;
+    text-align: center;
+    font-size: 20px;
+
 }
