@@ -35,6 +35,11 @@ body {
     font-weight: bold;
 }
 
+.header2 {
+    text-align: center;
+    border: 24px;
+}
+
 .container {
     display: flex;
     border-bottom: 2px solid;
