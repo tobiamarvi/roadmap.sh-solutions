@@ -10,3 +10,6 @@ Basic HTML Website - https://roadmap.sh/projects/basic-html-website
 
 Personal Portfolio - https://roadmap.sh/projects/portfolio-website
 - https://github.com/tobiamarvi/roadmap.sh-solutions/tree/main/frontend/personal-portfolio
+
+Changelog Component - https://roadmap.sh/projects/changelog-component
+- https://github.com/tobiamarvi/roadmap.sh-solutions/tree/main/frontend/changelog-component
